@@ -3,3 +3,4 @@ diffusers
 matplotlib
 pandas
 transformers
+scipy
